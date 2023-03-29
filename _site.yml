@@ -1,8 +1,9 @@
 name: "."
-title: "Sorroken-Boy Website"
+title: "Home"
 description: |
   Sorroken-Boy Website
 output_dir: "docs"
+theme: Sorroken-Boy theme.css
 navbar:
   right:
     - text: "Home"
