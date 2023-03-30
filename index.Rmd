@@ -16,7 +16,7 @@ site: distill::distill_website
 
 # Welcome!
  
- This website was built completely  in **R** using the `distill` package.
+ This website is still under construction.
  
  
 ## Bio
