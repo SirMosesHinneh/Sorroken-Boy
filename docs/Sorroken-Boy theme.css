@@ -100,3 +100,19 @@ h1 {
   border-color: #7B287D;
   color:white;
 }
+
+d-article h1{
+  
+  color:#7B287D !important;
+  font-size: 38px;
+}
+
+/*single space for the lists*/
+d-article li {
+  margin-bottom: 0em;
+}
+
+d-article a {
+  color:#7B287D;
+  border-bottom: none;
+}

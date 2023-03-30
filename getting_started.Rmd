@@ -1,0 +1,47 @@
+---
+title: "Resources to help you begin your R Coding journey"
+# description: |
+#  A new article created using the Distill format.
+# author:
+#  - name: Nora Jones 
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Resources
+
+Learn more about R programming at:
+<https://www.youtube.com/watch?v=_V8eKsto3Ug>
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+# R Programming Full Course 
+
+Follow the R Programming Full Course at:
+
+<https://www.youtube.com/watch?v=Q5g6lYUn6Q4>
+
+
+# Data Analysis with R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9Ullo3QIdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# UL Entrance Results Presentation Using R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fikOf4IsKPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

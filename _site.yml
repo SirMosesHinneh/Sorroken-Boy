@@ -7,5 +7,11 @@ theme: Sorroken-Boy theme.css
 navbar:
   right:
     - text: "Getting Started"
-      href: about.html
+      href: getting_started.html
+    - text: "UL Entrance Results"
+      menu:
+      - text: "UL 2022 First Entrance Results"
+        href: rmarkdown1.html
+      - text: "UL 2022 Second Entrance Results"
+        href: rmarkdown2.html
 output: distill::distill_article
