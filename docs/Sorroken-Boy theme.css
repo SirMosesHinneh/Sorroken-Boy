@@ -1,4 +1,8 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital@1&family=Open+Sans&display=swap');
+
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -15,8 +19,8 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
-  --body-size:       1.06rem;
+  --title-size:      40px;
+  --body-size:       18px;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
@@ -27,10 +31,10 @@ html {
   --aside-color:     #01161E;
   --fig-cap-color:   #01161E;
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
+  --heading-font:    Amaranth;
   --mono-font:       monospace;
-  --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --body-font:       "Opens Sans";
+  --navbar-font:     Amaranth;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -63,7 +67,7 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #8B9A46;
+  --bkgd-color:       #7B287D;
 }
 
 .distill-site-footer {
@@ -77,22 +81,22 @@ d-appendix {
 /* Add any additional CSS rules below                      */
 
 h1 {
-  color: #8B9A46;
+  color: #7B287D;
   font-size: 36px;
   
 }
 
 .btn-outline-dark{
   background-color: transparent;
-  color:#8B9A46;
+  color:#7B287D;
   border:1px solid;
-  border-color: #8B9A46;
+  border-color: #7B287D;
   
 }
 
 
 .btn-outline-dark:hover {
-  background-color: #8B9A46;
-  border-color: #8B9A46;
+  background-color: #7B287D;
+  border-color: #7B287D;
   color:white;
 }

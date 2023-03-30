@@ -16,7 +16,7 @@ site: distill::distill_website
 
 # Welcome!
  
- This website was built completely in in **R** using the `distill` package.
+ This website was built completely  in **R** using the `distill` package.
  
  
 ## Bio
@@ -31,4 +31,4 @@ Moses Hinneh Studies Statistics and Probability Theory at the East China Univers
 
 ## Experience
 
-**To be added later**
+**To be added later**.

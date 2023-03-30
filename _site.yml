@@ -6,8 +6,6 @@ output_dir: "docs"
 theme: Sorroken-Boy theme.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
+    - text: "Getting Started"
       href: about.html
 output: distill::distill_article
